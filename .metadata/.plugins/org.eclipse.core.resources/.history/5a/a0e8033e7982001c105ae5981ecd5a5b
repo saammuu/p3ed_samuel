@@ -4,9 +4,6 @@
  * and open the template in the editor
  */
 package PruebaPersona;
-/*
- * Este es un comentario para git
- */
 
 import java.util.regex.Pattern;
 
