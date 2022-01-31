@@ -1,11 +1,8 @@
-/*
- * To change this license header, chose License Headers in project Properties
- * To change this template file, choose tools | Templates
- * and open the template in the editor
- */
 package PruebaPersona;
 
-import java.util.regex.Pattern;
+
+
+
 
 public class Persona {
 
